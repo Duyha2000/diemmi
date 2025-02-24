@@ -1,6 +1,9 @@
 /* ----- POPPINS FONT Link ----- */
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
-
+a {
+  text-decoration: none;
+  color: inherit;
+}
 /* ----- VARIABLES ----- */
 :root {
   --body-color: rgb(250, 250, 250);
